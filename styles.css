@@ -20,6 +20,13 @@ h3 {
     color: yellow;
 }
 
+span {
+    font-size: 60px;
+    color: orange;
+    font-family: Agbalumo;
+    font-weight: lighter;
+}
+
 .img {
     border: 10px solid darkblue;
     border-radius: 50px;
