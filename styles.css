@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     font-size: 140px;
     font-family: Elsie;
-    margin: 15px 0px 15px 0px;
+    margin: 15px 0px 35px 0px;
 }
 
 h2,
@@ -79,6 +79,7 @@ span {
     background-color: black;
     color: white;
     text-align: center;
+    width: 1940px;
 }
 
 #photos p {
