@@ -20,9 +20,15 @@ h3 {
 }
 
 img {
-    border: 10px double brown;
-    border-radius: 40px;
+    border: 10px double white;
+    border-radius: 100px;
     margin: 10px 20px 10px 10px;
+}
+
+.txt {
+    font-size: 20px;
+    font-family: Agbalumo;
+    margin: 0px 0px 30px 0px;
 }
 
 #bio {
@@ -58,7 +64,7 @@ img {
     font-weight: lighter;
 }
 
-@media all and (min-width: 500px) {
+@media all and (min-width: 468px) {
     body {
         background-color: blue;
         font-size: 20px;
