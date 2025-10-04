@@ -20,13 +20,12 @@ h3 {
 }
 
 img {
-    border: 10px double white;
-    border-radius: 100px;
+    border: 10px solid darkblue;
+    border-radius: 50px;
     margin: 10px 20px 10px 10px;
 }
 
 .txt {
-    font-size: 20px;
     font-family: Agbalumo;
     margin: 0px 0px 30px 0px;
 }
@@ -59,7 +58,7 @@ img {
 
 #pht strong {
     color: red;
-    font-size: 40px;
+    font-size: 60px;
     font-family: Agbalumo;
     font-weight: lighter;
 }
