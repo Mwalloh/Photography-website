@@ -28,8 +28,8 @@ span {
 }
 
 .img {
-    border: 10px solid darkblue;
-    border-radius: 50px;
+    border: 10px double darkblue;
+    border-radius: 100px;
     margin: 10px 20px 10px 10px;
 }
 
