@@ -1,7 +1,6 @@
 body {
     background-color: blue;
     color: whitesmoke;
-    width: 100%;
 }
 
 h1 {
@@ -73,17 +72,18 @@ span {
 
 #photos {
     border: 5px solid black;
-    border-radius: 50px;
+    border-radius: 70px;
     padding: 20px;
     margin: 20px;
     background-color: black;
     color: white;
     text-align: center;
-    width: 1940px;
 }
 
 #photos p {
-    font-size: 40px;
+    font-size: 45px;
+    color: greenyellow;
+    font-weight: bolder;
 }
 
 #photos img {
