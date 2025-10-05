@@ -96,15 +96,14 @@ span {
 
 footer {
     text-align: center;
-    font-size: 45px;
-    margin: 30px 0px 0px 150px;
-    color: black;
-    background-color: bisque;
+    font-size: 35px;
+    margin: 30px 0px 0px 0px;
+    color: aquamarine;
+    background-color: indigo;
     padding: 15px;
     font-family: Righteous;
     border: 2px solid black;
     border-radius: 100px;
-    width: 1350px;
 }
 
 @media screen and (max-width: 1000px) {
