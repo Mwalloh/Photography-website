@@ -10,9 +10,9 @@ The project presents to you Photography Projects of two Photographers who came t
 - **GitHub :** [Mwalloh](https://github.com/Mwalloh)
 
 ## Setup Instructions
-Clone the repository :
-```bash
-git clone git@github.com:Mwalloh/Photography-website.git
+1. Clone the repository :
+   ```bash
+   git clone git@github.com:Mwalloh/Photography-website.git
 
 ## Link to the Live Site
 mwalloh.github.io/Photography-website/
