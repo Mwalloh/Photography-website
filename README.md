@@ -15,7 +15,7 @@ The project presents to you Photography Projects of two Photographers who came t
    git clone git@github.com:Mwalloh/Photography-website.git
 
 ## Link to the Live Site
-mwalloh.github.io/Photography-website/
+https://mwalloh.github.io/Photography-website/
 
 # Contact Information
 **Email :** jimochieng64@gmail.com
