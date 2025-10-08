@@ -19,7 +19,7 @@ https://mwalloh.github.io/Photography-website/
 
 # Contact Information
 **Email :** jimochieng64@gmail.com
-**GitHub :** Mwalloh
+**GitHub :** [Mwalloh](https://github.com/Mwalloh)
 
 ## License and Copyright Information
 This Project is licensed under the MIT License.
